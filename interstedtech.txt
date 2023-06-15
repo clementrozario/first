@@ -2,3 +2,5 @@ technology i'm intersted in:
 
 Block chain
 A.I/M.L
+
+data science
